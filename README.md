@@ -1,1 +1,1 @@
-# AICTE-projrct
+# AICTE-project
